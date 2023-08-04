@@ -19,6 +19,7 @@ Technology has been my driving passion since I can remember, from tinkering with
 <img align="left" alt="microsoft azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="linux-fedora" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" />
 
+<br />
 
 ### Career Interests
 🔒 Cybersecurity
