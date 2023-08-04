@@ -1,5 +1,6 @@
-### Hi there 👋
+# 🦅 Taylor Griffin
 
+**`Computer Information Technology student at Texas Christian University`**
 <!--
 **imtaylorgriffin/imtaylorgriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
