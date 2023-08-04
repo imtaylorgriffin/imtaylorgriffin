@@ -4,7 +4,7 @@
 
 Technology has been my driving passion since I can remember, from tinkering with computers and gadgets to exploring different programming languages, I've always had an insatiable curiosity for all things tech-related! This passion has led me to pursue a Bachelor of Science in Computer Information Technology at TCU, where I have gained a solid foundation in various technical disciplines.
 
-### ⦿ Langauges and Tools
+## - Langauges and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -21,16 +21,18 @@ Technology has been my driving passion since I can remember, from tinkering with
 
 <br />
 
-### ⦿ Career Interests and Projects
-- 🔒 Cybersecurity <br />
+## - Career Interests and Projects
+- ### 🔒 Cybersecurity <br />
     - [RansomWhale Unleashed: An Immersive Learning Experience in Ransomware Operations](https://eurekalabs.net/lab/64adf8710599dd1419917072)
     - [Creating a "Toadally-Safe" Password](https://eurekalabs.net/lab/646d63c80599dd1419917071)
-- 💻 System Administration <br />
-- 🌌 Cloud Computing <br />
-- 📊 Data Analytics <br />
-- 🧬 Bioinformatics <br />
-- 🎮 Game Development <br />
-- 🌐 Information Technology <br />
+    - Global Attack Tracking (SIEM)
+- ### 💻 System Administration <br />
+- ### 🌌 Cloud Computing <br />
+- ### 📊 Data Analytics <br />
+- ### 🧬 Bioinformatics <br />
+- ### 🎮 Game Development <br />
+    - Round-based Survival game
+- ### 🌐 Information Technology <br />
 
 
           
