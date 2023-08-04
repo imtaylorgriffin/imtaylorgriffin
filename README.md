@@ -22,13 +22,13 @@ Technology has been my driving passion since I can remember, from tinkering with
 <br />
 
 ### Career Interests
-🔒 Cybersecurity
-💻 System Administration
-🌌 Cloud Computing
-📊 Data Analytics
-🧬 Bioinformatics
-🎮 Game Development
-🌐 Information Technology
+🔒 Cybersecurity <br />
+💻 System Administration <br />
+🌌 Cloud Computing <br />
+📊 Data Analytics <br />
+🧬 Bioinformatics <br />
+🎮 Game Development <br />
+🌐 Information Technology <br />
 
 
           
