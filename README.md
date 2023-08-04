@@ -17,6 +17,19 @@ Technology has been my driving passion since I can remember, from tinkering with
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="microsoft azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="linux-fedora" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" />
+
+
+### Career Interests
+🔒 Cybersecurity
+💻 System Administration
+🌌 Cloud Computing
+📊 Data Analytics
+🧬 Bioinformatics
+🎮 Game Development
+🌐 Information Technology
+
+
           
           
           
