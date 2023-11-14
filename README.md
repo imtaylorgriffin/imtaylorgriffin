@@ -26,6 +26,8 @@ Technology has been my driving passion since I can remember, from tinkering with
     - [RansomWhale Unleashed: An Immersive Learning Experience in Ransomware Operations](https://eurekalabs.net/lab/64adf8710599dd1419917072)
     - [Creating a "Toadally-Safe" Password](https://eurekalabs.net/lab/646d63c80599dd1419917071)
     - Global Attack Tracking (SIEM)
+    - [Geolocation-based Access Control - Geospatial Technology Project Proposal](https://github.com/imtaylorgriffin/RansomWhale/files/13356071/Geolocation-based.Access.Control.-.Geospatial.Technology.Project.Proposal.pdf)
+
 - ### 💻 System Administration <br />
 - ### 🌌 Cloud Computing <br />
 - ### 📊 Data Analytics <br />
