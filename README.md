@@ -27,6 +27,7 @@ Technology has been my driving passion since I can remember, from tinkering with
     - [Creating a "Toadally-Safe" Password](https://eurekalabs.net/lab/646d63c80599dd1419917071)
     - Global Attack Tracking (SIEM)
     - [Geolocation-based Access Control - Geospatial Technology Project Proposal](https://github.com/imtaylorgriffin/RansomWhale/files/13356071/Geolocation-based.Access.Control.-.Geospatial.Technology.Project.Proposal.pdf)
+    - [SaboToadge - Rogue AP - Wireless Network Security Project Outline.pdf](https://github.com/imtaylorgriffin/RansomWhale/files/13356184/Wireless.Security.Project.Outline.pdf)
 
 - ### 💻 System Administration <br />
 - ### 🌌 Cloud Computing <br />
