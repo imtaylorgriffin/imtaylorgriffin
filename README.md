@@ -22,6 +22,7 @@ Technology has been my driving passion since I can remember, from tinkering with
 
 
 ## Interests and Projects
+- ### 📊 Data Analytics <br />
 - ### 🔒 Cybersecurity <br />
     - [RansomWhale Unleashed: An Immersive Learning Experience in Ransomware Operations](https://eurekalabs.net/lab/64adf8710599dd1419917072)
     - [Creating a "Toadally-Safe" Password](https://eurekalabs.net/lab/646d63c80599dd1419917071)
@@ -31,7 +32,6 @@ Technology has been my driving passion since I can remember, from tinkering with
 
 - ### 💻 System Administration <br />
 - ### 🌌 Cloud Computing <br />
-- ### 📊 Data Analytics <br />
 - ### 🧬 Bioinformatics <br />
 - ### 🎮 Game Development <br />
     - Round-based Survival game
