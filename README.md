@@ -1,8 +1,12 @@
 # 🦅 Taylor Griffin
 
-**`Computer Information Technology student at Texas Christian University`**
+**`Analytics and Artificial Intelligence MSC Student at ESMT Berlin`**
+
+`Computer Information Technology Alum - Texas Christian University`
 
 Technology has been my driving passion since I can remember, from tinkering with computers and gadgets to exploring different programming languages, I've always had an insatiable curiosity for all things tech-related! This passion has led me to pursue a Bachelor of Science in Computer Information Technology at TCU, where I have gained a solid foundation in various technical disciplines.
+
+Following my studies at TCU, I’m now diving into Analytics and AI at ESMT Berlin. Here, I’m gaining hands-on experience with data analytics, machine learning, and econometrics, pushing my tech skills further. My goal is to help make real-world impacts with data, especially in healthcare, where I believe AI can make a difference.
 
 ## Langauges and Tools
 
