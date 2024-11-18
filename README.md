@@ -29,6 +29,8 @@ Following my studies at TCU, I’m now diving into Analytics and AI at ESMT Berl
 - ### 📊 Data Analytics <br />
     - [Global High-Causality Event Analysis](https://github.com/imtaylorgriffin/data-analysis-24/blob/5bd1e86081cd21a09768d7a35c476c649c9a9d71/Global_High_Causality_Event_Analysis.ipynb)
 
+- ### 🤖 Machine Learning <br />
+
 - ### 🔒 Cybersecurity <br />
     - [RansomWhale Unleashed: An Immersive Learning Experience in Ransomware Operations](https://eurekalabs.net/lab/64adf8710599dd1419917072)
     - [Creating a "Toadally-Safe" Password](https://eurekalabs.net/lab/646d63c80599dd1419917071)
@@ -38,10 +40,7 @@ Following my studies at TCU, I’m now diving into Analytics and AI at ESMT Berl
 
 - ### 💻 System Administration <br />
 - ### 🌌 Cloud Computing <br />
-- ### 🧬 Bioinformatics <br />
-- ### 🎮 Game Development <br />
-    - Round-based Survival game
-- ### 🌐 Information Technology <br />
+
 
 
           
