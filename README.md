@@ -36,7 +36,7 @@ Following my studies at TCU, I’m now diving into Analytics and AI at ESMT Berl
     - [Creating a "Toadally-Safe" Password](https://eurekalabs.net/lab/646d63c80599dd1419917071)
     - Global Attack Tracking (SIEM)
     - [Geolocation-based Access Control - Geospatial Technology Project Proposal](https://github.com/imtaylorgriffin/RansomWhale/files/13356071/Geolocation-based.Access.Control.-.Geospatial.Technology.Project.Proposal.pdf)
-    - [SaboToadge - Rogue AP - Wireless Network Security Project Ideas Outline](https://github.com/user-attachments/files/18148148/saboToadge.pdf)
+    - [SaboToadge - Rogue Access Point - Wireless Network Security Project](https://github.com/user-attachments/files/18148148/saboToadge.pdf)
 
 - ### 💻 System Administration <br />
 - ### 🌌 Cloud Computing <br />
